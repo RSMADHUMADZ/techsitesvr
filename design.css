@@ -1,5 +1,19 @@
+
+.custom-navbar-font,h1,h3,h4,p{
+	font-family:"Disket-Mono-Regular", monospace;
+}
+.navbar{
+	background:linear-gradient(90deg,#fb5607,#006d77);
+}
+
 .container-fluid1
 {
-	height: 300px;
-	background: #2E3AAD;
+	height: 800px;
+	background:#44969D;
+	
+}
+
+.custom-text-color
+{
+	color:aliceblue;
 }
