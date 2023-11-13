@@ -19,36 +19,5 @@
 }
 
 
-.custom-fakeimg1
-
-{
-	width:400px;
-	height: 400px;
-	border-radius: 10px;
-	position: absolute;
-	top:40px;
-	
-	
-}
-
-.animate-fakeimg1
-{
-	
-	position: relative;
-	animation: moveUpDown 3s infinite;
-}
-
-@keyframes moveUpDown
-{
-	0%, 100% 
-	{
-		transform: translateY(0);
-	}
-	
-	50%
-	{
-		transform: translateY(-20px);
-	}
-}
 
 
