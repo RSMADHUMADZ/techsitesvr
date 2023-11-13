@@ -62,8 +62,8 @@
       position: absolute;
       top: 73%;
       left: 53%;
-      transform: translate(-60%,-60%);
+      transform: translate(-50%,-60%);
       color: #fff; /* Text color */
-	font-size: 25px;
+      font-size: 25px;
        
     }
