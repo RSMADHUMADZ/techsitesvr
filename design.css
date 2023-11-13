@@ -2,13 +2,21 @@
 .custom-navbar-font,h1,h3,h4,p{
 	font-family:"Disket-Mono-Regular", monospace;
 }
+
+.highlight-text
+{
+	background:#006d77;
+}
+
+
+
 .navbar{
 	background:linear-gradient(90deg,#fb5607,#006d77);
 }
 
 .container-fluid1
 {
-	height: 1500px;
+	height: 900px;
 	background:#44969D;
 	
 }
@@ -27,7 +35,7 @@
 	height: 300px;
 	border-radius: 12px;
 	position:relative;
-	top:60px;
+	top:30%;
 
 }
 .animate-fakeimg1
@@ -50,3 +58,12 @@
 	}
 }
 
+.overlay-text {
+      position: absolute;
+      top: 73%;
+      left: 53%;
+      transform: translate(-60%,-60%);
+      color: #fff; /* Text color */
+	font-size: 30px;
+       
+    }
