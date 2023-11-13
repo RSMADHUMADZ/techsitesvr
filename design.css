@@ -14,14 +14,13 @@
 	background:linear-gradient(90deg,#fb5607,#006d77);
 }
 
-@media(max-width:768px)
-{
+
 .container-fluid1
 {
 	min-height: 100vh;
 	background:#44969D;
 }
-}
+
 	
 
 .custom-text-color
