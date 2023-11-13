@@ -17,8 +17,8 @@
 
 .container-fluid1
 {
-	min-height: 100vh;
-	background:#44969D;
+	min-height: 90vh;
+	background:linear-gradient(180deg,#44969D,#00223E);
 }
 
 	
@@ -69,3 +69,51 @@
       font-size: 35px;
        
     }
+
+.container-fluid2
+{
+	min-height: 70vh;
+	background:linear-gradient(180deg, #FFFFFF,#FFA17F);
+}
+
+.borderd-div
+{
+	border:2px solid black;
+	padding:65px;
+	border-radius:5px;
+}
+
+
+.custom-fakeimg2
+{
+	height:50px;
+	width:200px;
+	background:#000000;
+	border-radius: 10px;
+	border: 3px solid #FFFF;
+	
+}
+
+.custom-text2
+{
+	position:relative;
+	top:70%;
+	left:10%;
+	color:#FFF;
+	transform: translate(-20%,-20%);
+	
+}
+
+
+.img-shadow
+{
+	box-shadow: 50px 50px 50px rgba(0, 0, 0, 0.5);
+}
+
+
+.container-fluid3
+{
+	position: relative;
+	left:5%;
+}
+
