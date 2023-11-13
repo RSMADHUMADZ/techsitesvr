@@ -61,7 +61,7 @@
 .overlay-text {
       position: absolute;
       top: 73%;
-      left: 50%;
+      left: 53%;
       transform: translate(-60%,-60%);
       color: #fff; /* Text color */
       font-size: 35px;
