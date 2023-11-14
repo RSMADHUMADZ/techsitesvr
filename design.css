@@ -3,6 +3,7 @@
 	font-family:"Disket-Mono-Regular", monospace;
 }
 
+
 .highlight-text
 {
 	background:#006d77;
@@ -26,6 +27,7 @@
 .custom-text-color
 {
 	color:aliceblue;
+	
 }
 
 
@@ -76,10 +78,18 @@
 	background:linear-gradient(180deg, #FFFFFF,#FFA17F);
 }
 
+
+.textlikepara{
+	text-align:justify;
+	max-width: 600px;
+	margin:0 auto;
+		
+}
+
 .borderd-div
 {
 	border:2px solid black;
-	padding:65px;
+	padding:75px;
 	border-radius:5px;
 }
 
@@ -90,7 +100,7 @@
 	width:200px;
 	background:#000000;
 	border-radius: 10px;
-	border: 3px solid #FFFF;
+	border: 2px solid #FFFF;
 	
 }
 
@@ -116,4 +126,107 @@
 	position: relative;
 	left:5%;
 }
+
+.container-fluid4{
+	
+	min-height: 100vh;
+	background:linear-gradient(180deg,#FFA17F,#808080);
+	
+	
+}
+ 
+.fakeimg3
+{
+	height: 200px;
+	width:250px;
+	background-color:#fff;
+	border-radius: 20px;
+	position: relative;
+	left:20%;
+	border:3px solid red;
+	opacity: 80%;
+}
+
+.custom-text3
+{
+	  position: relative;
+	  top:20%;
+	  font-size:25px;
+	  left:5%;
+}
+
+ 
+.fakeimg4
+{
+	height: 200px;
+	width:250px;
+	background-color:#fff;
+	border-radius: 20px;
+	position: relative;
+	left:20%;
+	border:3px solid yellow;
+	opacity: 80%;
+}
+
+
+.custom-text4
+{
+	  position: relative;
+	  top:10%;
+	  font-size:25px;
+	  left:3%;
+}
+
+
+.fakeimg5
+{
+	height: 200px;
+	width:250px;
+	background-color:#fff;
+	border-radius: 20px;
+	position: relative;
+	left:20%;
+	border:3px solid purple;
+	opacity: 80%;
+}
+
+
+.fakeimg6
+{
+	height: 200px;
+	width:250px;
+	background-color:#fff;
+	border-radius: 20px;
+	position: relative;
+	left:20%;
+	border:3px solid blue;
+	opacity: 80%;
+}
+
+
+.fakeimg7
+{
+	height: 200px;
+	width:250px;
+	background-color:#fff;
+	border-radius: 20px;
+	position: relative;
+	left:20%;
+	border:3px solid orange;
+	opacity: 80%;
+}
+
+.fakeimg8
+{
+	height: 200px;
+	width:250px;
+	background-color:#fff;
+	border-radius: 20px;
+	position: relative;
+	left:20%;
+	border:3px solid black;
+	opacity: 80%;
+}
+
+
 
