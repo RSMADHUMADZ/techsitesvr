@@ -145,14 +145,7 @@
 	
 }
 
-.row1
 
-{
-	position:relative;
-	left:3%;
-	right:3%;
-	top:3%;
-}
  
 .fakeimg3
 {
@@ -161,7 +154,7 @@
 	background-color:#fff;
 	border-radius: 20px;
 	position: relative;
-	left:20%;
+	left:10%;
 	border:3px solid red;
 	opacity: 80%;
 }
