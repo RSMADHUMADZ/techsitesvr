@@ -171,11 +171,11 @@
 .fakeimg4
 {
 	height: 200px;
-	width:250px;
+	width:200px;
 	background-color:#fff;
 	border-radius: 20px;
 	position: relative;
-	left:20%;
+	left:15%;
 	border:3px solid yellow;
 	opacity: 80%;
 }
