@@ -95,7 +95,9 @@
 
 .custom-text1
 {
-	font-size:25px;
+	font-size:40px;
+	position:relative;
+	top:20%;
 }
 
 
