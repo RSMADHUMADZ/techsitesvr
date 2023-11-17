@@ -175,8 +175,8 @@
 	background-color:#fff;
 	border-radius: 20px;
 	position: relative;
-	left:19%;
-	right:5%;
+	left:10%;
+	right:10%;
 	border:3px solid yellow;
 	opacity: 80%;
 }
@@ -199,7 +199,7 @@
 	border-radius: 20px;
 	position: relative;
 	left:20%;
-	right:5%;
+	right:10%;
 	border:3px solid purple;
 	opacity: 80%;
 }
