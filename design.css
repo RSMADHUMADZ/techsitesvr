@@ -76,7 +76,7 @@
 .container-fluid2
 {
 	min-height: 70vh;
-	background:linear-gradient(180deg, #FFFFFF,#2E5677);
+	background:linear-gradient(180deg, #FFFFFF,#629A9E);
 }
 
 
@@ -143,7 +143,7 @@
 .container-fluid4{
 	
 	min-height:100vh;
-	background:linear-gradient(180deg,#2E5677,#fff);
+	background:linear-gradient(180deg,#629A9E,#fff);
 	
 	
 }
