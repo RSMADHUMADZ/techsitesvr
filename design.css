@@ -247,4 +247,17 @@
 }
 
 
+.image-container
+{
+	max-width: 100%;
+	overflow: hidden;
+}
+
+.responsive-img
+{
+	width: 100%;
+	height: auto;
+	display:block;
+}
+
 
