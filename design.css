@@ -69,13 +69,14 @@
       transform: translate(-60%,-60%);
       color: #fff; /* Text color */
       font-size: 35px;
+      font-family:"Disket-Mono-Regular", monospace;
        
     }
 
 .container-fluid2
 {
 	min-height: 70vh;
-	background:linear-gradient(180deg, #FFFFFF,#FFA17F);
+	background:linear-gradient(180deg, #FFFFFF,#66ccff);
 }
 
 
@@ -98,6 +99,7 @@
 	font-size:30px;
 	position:relative;
 	top:15%;
+	font-family:"Disket-Mono-Regular", monospace;
 	
 }
 
@@ -120,6 +122,7 @@
 	left:10%;
 	color:#FFF;
 	transform: translate(-20%,-20%);
+	font-family:"Disket-Mono-Regular", monospace;
 	
 	
 }
@@ -173,6 +176,7 @@
 	  top:10%;
 	  font-size:15px;
 	  left:1%;
+	font-family:"Disket-Mono-Regular", monospace;
 }
 
 .fakeimg10
