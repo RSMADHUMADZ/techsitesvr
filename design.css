@@ -261,11 +261,12 @@
 }
 
 
-.custom-text4
+.custom-this
 {
 	position:relative;
-	top:10%;
-	left:20%;
+	top:50%;
+	left:50%;
+	text-color:#fff;
 }
 
 .fakeimg10
