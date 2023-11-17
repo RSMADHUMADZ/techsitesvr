@@ -256,6 +256,7 @@
 	background-color:#fff;
 	border:3px solid red;
 	opacity: 80%;
+	border-radius:10px;
 	
 }
 
@@ -275,6 +276,7 @@
 	background-color:#fff;
 	border:3px solid yellow;
 	opacity: 80%;
+	border-radius:10px;
 }
 .fakeimg11
 {
@@ -283,6 +285,7 @@
 	background-color:#fff;
 	border:3px solid purple;
 	opacity: 80%;
+	border-radius:10px;
 }
 
 .fakeimg12
@@ -292,6 +295,7 @@
 	background-color:#fff;
 	border:3px solid black;
 	opacity: 80%;
+	border-radius:10px;
 }
 
 .fakeimg13
@@ -301,6 +305,7 @@
 	background-color:#fff;
 	border:3px solid orange;
 	opacity: 80%;
+	border-radius:10px;
 }
 
 .fakeimg14
@@ -310,4 +315,5 @@
 	background-color:#fff;
 	border:3px solid green;
 	opacity: 80%;
+	border-radius:10px;
 }
