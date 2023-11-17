@@ -139,106 +139,16 @@
 
 .container-fluid4{
 	
-	
+	min-height:100vh;
 	background:linear-gradient(180deg,#FFA17F,#fff);
 	
 	
 }
 
 
-.fakeimg3
-{
-	height: 200px;
-	width:200px;
-	background-color:#fff;
-	
-        position:relative;
-	left:25%;
-	border:3px solid red;
-	opacity: 80%;
-}
-
-.custom-text3
-{
-	  position: relative;
-	  top:10%;
-	  font-size:15px;
-	  left:1%;
-}
-
- 
-.fakeimg4
-{
-	height: 200px;
-	width:200px;
-	background-color:#fff;
-	
-	 position:relative;
-	left:25%;
-	border:3px solid yellow;
-	opacity: 80%;
-}
-
-
-
-
-.fakeimg5
-{
-	height: 200px;
-	width:200px;
-	background-color:#fff;
-	
-	 position:relative;
-	left:25%;
-	border:3px solid purple;
-	opacity: 80%;
-}
-
-
-.fakeimg6
-{
-	height: 200px;
-	width:235px;
-	background-color:#fff;
-	border-radius: 20px;
-	position: relative;
-	 left:15%;
-	right:10%;
-	border:3px solid blue;
-	opacity: 80%;
-}
-
-
-.fakeimg7
-{
-	height: 200px;
-	width:235px;
-	background-color:#fff;
-	border-radius: 20px;
-	position: relative;
-	 left:15%;
-	right:10%;
-	border:3px solid orange;
-	opacity: 80%;
-}
-
-.fakeimg8
-{
-	height: 200px;
-	width:235px;
-	background-color:#fff;
-	border-radius: 20px;
-	position: relative;
-        left:15%;
-	right:10%;
-	border:3px solid black;
-	opacity: 80%;
-}
-
-
 .image-container
 {
-	max-width: 400%;
+	max-width: 300%;
 	overflow: hidden;
 }
 
