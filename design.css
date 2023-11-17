@@ -253,7 +253,10 @@
 {
         width:200px;
 	height:200px;
-	background:#ffffcc;
+	background-color:#fff;
+	border:3px solid red;
+	opacity: 80%;
+	
 }
 
 
@@ -269,18 +272,42 @@
 {
         width:200px;
 	height:200px;
-	background:#99ccff;
+	background-color:#fff;
+	border:3px solid yellow;
+	opacity: 80%;
 }
 .fakeimg11
 {
         width:200px;
 	height:200px;
-	background:#ccccff;
+	background-color:#fff;
+	border:3px solid purple;
+	opacity: 80%;
 }
 
 .fakeimg12
 {
         width:200px;
 	height:200px;
-	background:#33ccff;
+	background-color:#fff;
+	border:3px solid black;
+	opacity: 80%;
+}
+
+.fakeimg13
+{
+        width:200px;
+	height:200px;
+	background-color:#fff;
+	border:3px solid orange;
+	opacity: 80%;
+}
+
+.fakeimg14
+{
+        width:200px;
+	height:200px;
+	background-color:#fff;
+	border:3px solid green;
+	opacity: 80%;
 }
