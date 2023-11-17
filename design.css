@@ -249,13 +249,19 @@
 
 .image-container
 {
-	max-width: 100%;
+	max-width: 400%;
 	overflow: hidden;
 }
 
-.custom-image {
+.responsive-img {
       max-width: 100%; /* Ensure the image doesn't exceed its container */
       height: auto; /* Maintain the aspect ratio */
       display: block; /* Remove extra space below the image */
       margin: 0 auto; /* Center the image horizontally */
     }
+
+.fakeimg9
+{
+width:250px;
+	height:300px;
+}
