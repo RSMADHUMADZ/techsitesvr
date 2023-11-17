@@ -209,11 +209,12 @@
 .fakeimg6
 {
 	height: 200px;
-	width:250px;
+	width:235px;
 	background-color:#fff;
 	border-radius: 20px;
 	position: relative;
-	left:17%;
+	 left:15%;
+	right:10%;
 	border:3px solid blue;
 	opacity: 80%;
 }
@@ -222,11 +223,12 @@
 .fakeimg7
 {
 	height: 200px;
-	width:250px;
+	width:235px;
 	background-color:#fff;
 	border-radius: 20px;
 	position: relative;
-	left:20%;
+	 left:15%;
+	right:10%;
 	border:3px solid orange;
 	opacity: 80%;
 }
@@ -234,11 +236,12 @@
 .fakeimg8
 {
 	height: 200px;
-	width:250px;
+	width:235px;
 	background-color:#fff;
 	border-radius: 20px;
 	position: relative;
-	left:20%;
+        left:15%;
+	right:10%;
 	border:3px solid black;
 	opacity: 80%;
 }
