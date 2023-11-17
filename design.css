@@ -259,11 +259,10 @@
 
 .custom-text4
 {
-	position:relative;
-	top:40%;
-	left:40%;
-	font-color:#fff;
-	font-size:10px;
+	  position: relative;
+	  top:10%;
+	  font-size:15px;
+	  left:1%;
 }
 
 .fakeimg10
