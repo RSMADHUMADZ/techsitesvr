@@ -267,6 +267,14 @@
 	background:#3366cc;
 }
 
+
+.custom-this
+{
+	position:relative;
+	top:10%;
+	left:10%;
+}
+
 .fakeimg10
 {
         width:200px;
