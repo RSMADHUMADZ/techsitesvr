@@ -154,7 +154,8 @@
 	background-color:#fff;
 	border-radius: 20px;
         position:relative;
-	left:20%;
+	left:15%;
+	right:10%;
 	border:3px solid red;
 	opacity: 80%;
 }
@@ -198,7 +199,7 @@
 	background-color:#fff;
 	border-radius: 20px;
 	position: relative;
-	left:20%;
+        left:15%;
 	right:10%;
 	border:3px solid purple;
 	opacity: 80%;
