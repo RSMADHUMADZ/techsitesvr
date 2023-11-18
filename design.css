@@ -226,3 +226,11 @@ body{
 	opacity: 80%;
 	border-radius:10px;
 }
+
+.container-fluid5
+{
+	min-height:80vh;
+	background:linear-gradient(180deg,#fff,#629A9E);
+}
+
+
