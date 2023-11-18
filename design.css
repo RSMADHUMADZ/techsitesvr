@@ -1,5 +1,5 @@
 
-.custom-navbar-font,h1,h2,h3,h4,p{
+.custom-navbar-font,h1,h2,h3,h4,p,overlay-text,custom-text1,custom-text2,custom-text4{
 	font-family:"Disket-Mono-Regular", monospace;
 }
 
@@ -69,7 +69,7 @@
       transform: translate(-60%,-60%);
       color: #fff; /* Text color */
       font-size: 35px;
-      font-family:"Disket-Mono-Regular", monospace;
+    
        
     }
 
@@ -99,7 +99,7 @@
 	font-size:30px;
 	position:relative;
 	top:15%;
-	font-family:"Disket-Mono-Regular", monospace;
+	
 	
 }
 
@@ -122,7 +122,7 @@
 	left:10%;
 	color:#FFF;
 	transform: translate(-20%,-20%);
-	font-family:"Disket-Mono-Regular", monospace;
+	
 	
 	
 }
@@ -176,7 +176,7 @@
 	  top:10%;
 	  font-size:15px;
 	  left:1%;
-	font-family:"Disket-Mono-Regular", monospace;
+	
 }
 
 .fakeimg10
