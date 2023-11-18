@@ -180,8 +180,8 @@ body{
 
 .fakeimg10
 {
-        width:200px;
-	height:200px;
+        width:250px;
+	height:250px;
 	background-color:#fff;
 	border:3px solid yellow;
 	opacity: 80%;
@@ -189,8 +189,8 @@ body{
 }
 .fakeimg11
 {
-        width:200px;
-	height:200px;
+         width:250px;
+	height:250px;
 	background-color:#fff;
 	border:3px solid purple;
 	opacity: 80%;
@@ -199,7 +199,7 @@ body{
 
 .fakeimg12
 {
-         width:250px;
+        width:250px;
 	height:250px;
 	background-color:#fff;
 	border:3px solid black;
@@ -219,8 +219,8 @@ body{
 
 .fakeimg14
 {
-        width:200px;
-	height:200px;
+        width:250px;
+	height:250px;
 	background-color:#fff;
 	border:3px solid green;
 	opacity: 80%;
