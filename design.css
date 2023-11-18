@@ -135,13 +135,14 @@ body{
 
 .container-fluid3
 {
+	min-height:80vh;
 	position: relative;
 	left:5%;
 }
 
 .container-fluid4{
 	
-	min-height:100vh;
+	min-height:80vh;
 	background:linear-gradient(180deg,#629A9E,#fff);
 	
 	
